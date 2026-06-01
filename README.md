@@ -37,7 +37,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/auto-typer-bypass.git
+   git clone https://github.com/Kheyi001/Auto-Typer-Bypass-extension
    ```
    Or download the ZIP and extract it.
 
